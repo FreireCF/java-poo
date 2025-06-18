@@ -32,7 +32,7 @@ public class App{
                     System.out.println("\nDigite o ano de fabricação: ");
                         anoFab = scanner.nextInt();
                         scanner.nextLine();
-                    System.out.println("\nDigite o ano de fabricação: ");
+                    System.out.println("\nDigite o número de portas: ");
                         int portas = scanner.nextInt();
                         scanner.nextLine();
                     frota[cont].cadastrarCarro(placa, marca, modelo, anoFab, portas);
