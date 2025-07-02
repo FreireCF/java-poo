@@ -1,0 +1,5 @@
+package models;
+
+public class Constantes {
+    public static final String EDITORA = "Editora IFMA";
+}
